@@ -1,4 +1,4 @@
-# WineClustering
+# Wine Clustering
 
 Mini-projeto para ajudar a Lucia! 
 
