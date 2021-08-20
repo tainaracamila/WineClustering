@@ -1,0 +1,32 @@
+{
+    "id": "3CAF982E",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1629420952838.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "wines_grouped",
+        "caption": "wines_grouped",
+        "totalObservations": 178,
+        "displayedObservations": 178,
+        "variables": 14,
+        "cacheKey": "9B9E50D4",
+        "object": "wines_grouped",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=wines_grouped&cache_key=9B9E50D4&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3199090019644350522,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1629420952838,
+    "read_only": false,
+    "read_only_alternatives": []
+}
